@@ -1,0 +1,6 @@
+node_modules/
+src/
+bootstrap5_snippets/
+codeigniter4_snippets/
+
+package-lock.json
